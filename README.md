@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1897" height="1143" alt="Image" src="https://github.com/user-attachments/assets/49109e8b-9c2f-40e1-894b-8b31a3fac3e6" />[](url)
+<img width="1897" height="1143" alt="Image" src="https://github.com/user-attachments/assets/49109e8b-9c2f-40e1-894b-8b31a3fac3e6" />
 </div>
 
 
